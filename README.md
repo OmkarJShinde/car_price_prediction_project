@@ -1,4 +1,4 @@
-# car_price_prediction_project
+# Car_Price_Prediction_Project Using Multiple Linear Regression
 I am Omkar J Shinde, I am MCA Pursuing student
 
 🛠️ Tech Stack
